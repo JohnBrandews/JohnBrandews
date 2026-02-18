@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **SpringBoot**
 
-- 👨‍💻 All of my projects are available at [https://johnbrandews.github.io/professional-portfolio/](https://johnbrandews.github.io/professional-portfolio/)
+- 👨‍💻 All of my projects are available at [https://johnbrandews.github.io/professional-portfolio/](https://bendypixels.co.ke/)
 
 - 📫 How to reach me **johnbrandews@gmail.com**
 
